@@ -27,7 +27,7 @@ st.set_page_config(
 # 예:
 # https://raw.githubusercontent.com/USER/REPO/BRANCH/path/to/file.csv
 # =========================================================
-GITHUB_RAW_CSV_URL = "https://raw.githubusercontent.com/USER/REPO/main/data/서울시_야생동식물_출현_및_참고문헌_정보.csv"
+GITHUB_RAW_CSV_URL = "https://github.com/JinsKim-EcoEvo/Seoul_wildlife/blob/main/Seoul_wildlife.csv"
 
 DEFAULT_SOURCE_CRS = "EPSG:2097"  # 동경측지계로 추정되는 기본값
 SEOUL_CENTER = [37.5665, 126.9780]
